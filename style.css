@@ -67,15 +67,15 @@ h1{
 .div_f{
   text-decoration: none;
   border: 0 solid;
-  width: 87%;
-  margin-left: 5%;
-  padding:2% 2% 1% 2%;
+  width: 72%;
+  margin-left: 12%;
+  padding:0 2% 1% 2%;
   box-shadow:10px 10px 40px rgb(180, 179, 179);
-  border-radius: 12px;
+  border-radius: 15px;
 }
 .div_g{
   text-align: center;
-  padding-left: 400px;
+  padding-left: 250px;
 }
 footer{
   background-color: black;
