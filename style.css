@@ -1,0 +1,84 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0;
+}
+.blue_color{
+  color: rgb(69, 69, 252);
+}
+.gray_color{
+  color: gray;
+}
+h1{
+  font-size: 50px;
+}
+.a{
+  display:flex;
+  margin-bottom: 100px;
+}
+.div_a{
+  padding-top: 15%;
+  padding-left: 7%;
+}
+.div_b{
+  padding-top: 7%;
+  padding-right: 3%;
+}
+.div_b img{
+  width: 100%;
+}
+.button1{
+  text-decoration: none;
+  background-image: linear-gradient(rgb(70, 2, 255),rgb(102, 52, 158));
+  color: antiquewhite;
+  padding: 18px 40px;
+  border-radius: 30px;
+}
+.div_c img{
+  width: 70%;
+}
+.div_c{
+  padding-top: 7%;
+  padding-left: 10%;
+}
+.div_d{
+  padding-top: 15%;
+  padding-right: 5%;
+}
+.bg1{
+  background-image: url(images/shapes/Frame\ 59.jpg);
+  background-repeat: no-repeat;
+}
+.cntr{
+  text-align: center;
+}
+.image{
+  width: 100%;
+}
+.div_e{
+  text-decoration: none;
+  border: 0 solid;
+  width: 23%;
+  margin-left: 5%;
+  padding:2% 2% 1% 2%;
+  box-shadow:10px 10px 40px rgb(180, 179, 179);
+  border-radius: 20px;
+}
+.div_f{
+  text-decoration: none;
+  border: 0 solid;
+  width: 87%;
+  margin-left: 5%;
+  padding:2% 2% 1% 2%;
+  box-shadow:10px 10px 40px rgb(180, 179, 179);
+  border-radius: 12px;
+}
+.div_g{
+  text-align: center;
+  padding-left: 400px;
+}
+footer{
+  background-color: black;
+  color: aliceblue;
+  padding-top: 20px;
+  padding-bottom: 90px;
+}
