@@ -11,43 +11,43 @@ body{
 h1{
   font-size: 50px;
 }
-.a{
+.display_set{
   display:flex;
   margin-bottom: 100px;
 }
-.div_a{
+.padding_top_left{
+  width: 50%;
   padding-top: 15%;
-  padding-left: 7%;
+  padding-left:7%;
 }
-.div_b{
+.padding_top_right{
   padding-top: 7%;
   padding-right: 3%;
 }
-.div_b img{
+.padding_top_right img{
   width: 100%;
 }
-.button1{
+.button{
   text-decoration: none;
   background-image: linear-gradient(rgb(70, 2, 255),rgb(102, 52, 158));
   color: antiquewhite;
   padding: 18px 40px;
   border-radius: 30px;
 }
-.div_c img{
-  width: 70%;
-}
-.div_c{
+.padding_top_left2{
   padding-top: 7%;
   padding-left: 10%;
 }
-.div_d{
+.padding_top_left2 img{
+  width: 70%;
+}
+.padding_top_right2{
   padding-top: 15%;
   padding-right: 5%;
 }
-.bg1{
-  background-image: url(images/shapes/Frame\ 56.jpg);
+.background{
+  background-image: url(images/shapes/Frame\ 59.jpg);
   background-repeat: no-repeat;
-  background-position:center;
 }
 .cntr{
   text-align: center;
@@ -55,7 +55,7 @@ h1{
 .image{
   width: 100%;
 }
-.div_e{
+.menu_box{
   text-decoration: none;
   border: 0 solid;
   width: 23%;
@@ -64,7 +64,7 @@ h1{
   box-shadow:10px 10px 40px rgb(180, 179, 179);
   border-radius: 20px;
 }
-.div_f{
+.media_box{
   text-decoration: none;
   border: 0 solid;
   width: 72%;
@@ -73,9 +73,9 @@ h1{
   box-shadow:10px 10px 40px rgb(180, 179, 179);
   border-radius: 15px;
 }
-.div_g{
+.text_decor{
   text-align: center;
-  padding-left: 250px;
+  padding-left: 27%;
 }
 footer{
   background-color: black;
