@@ -3,10 +3,13 @@ body{
   margin: 0;
 }
 .blue_color{
-  color: rgb(69, 69, 252);
+  color: rgb(253, 173, 0);
 }
 .gray_color{
-  color: gray;
+  color: rgb(100, 100, 100);
+}
+.white_color{
+  color: azure;
 }
 h1{
   font-size: 50px;
@@ -51,6 +54,10 @@ h1{
   background-repeat: no-repeat;
   background-size: cover;
 }
+.background2{
+  background-image: url(images/food//Project\ Cover4.png);
+  background-repeat: no-repeat;
+}
 .cntr{
   text-align: center;
 }
@@ -79,8 +86,11 @@ h1{
   text-align: center;
   padding-left: 27%;
 }
+.font_works{
+  font-weight: 1000;
+}
 footer{
-  background-color: black;
+  background-color: rgb(15, 13, 24);
   color: aliceblue;
   padding-top: 20px;
   padding-bottom: 90px;
