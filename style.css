@@ -47,8 +47,9 @@ h1{
   padding-right: 7%;
 }
 .background{
-  background-image: url(images/shapes/Frame\ 59.jpg);
+  background-image: url(images/shapes/Frame\ 56.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .cntr{
   text-align: center;
