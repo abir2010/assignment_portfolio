@@ -14,6 +14,9 @@ body{
 h1{
   font-size: 50px;
 }
+#paddi{
+  padding-left: 5%;
+}
 .display_set{
   display:flex;
   margin-bottom: 100px;
@@ -71,6 +74,19 @@ h1{
   margin-left: 5%;
   padding:2% 2% 1% 2%;
   box-shadow:10px 10px 40px rgb(180, 179, 179);
+  border-radius: 20px;
+}
+.order_box{
+  text-decoration: none;
+  border: 0 solid;
+  width: 70%;
+  margin-left: 18%;
+  margin-right: 5%;
+  padding:0;
+  border-radius: 20px;
+}
+.order_box img{
+  width:100%;
   border-radius: 20px;
 }
 .media_box{
